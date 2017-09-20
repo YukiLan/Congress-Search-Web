@@ -1,0 +1,64 @@
+ html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+div.container{
+	border: 1px solid #cccccc;
+	background-color: white; 
+	padding: 0px;
+
+}
+div.tab-content{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+div.panel-heading{
+	background-color:#F6F6F6;
+	overflow: scroll;
+}
+div.panel-body{
+	background-color:white;
+	overflow: scroll;
+}
+.nav-tabs>li>a {
+  color:#cccccc;
+  outline: none;
+}
+button.navigation{
+	border:none;
+	background-color:transparent;
+	outline:none;
+	display:inline;
+	margin-left:5%;
+	margin-top:10%;
+}
+p.naviP{
+	display: inline;
+	color:white;
+}
+
+div.dataOutline{
+	border:none;
+}
+div{
+	height: 100%;
+}
+div.roundDiv{
+	border-radius:7px;
+}
+div.roundTopDiv{
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+}
+object.pdfObj{
+	height: 350%;
+	width: 100%;
+}
+th.billType{
+	width:160px;
+}
+td.billType{
+	width:160px;
+}
